@@ -9,7 +9,7 @@ let todoDate = "10/09/2024";
     <div class="col-4">{todoDate}</div>
     <div class="col-2">
       <button type="button" class="btn btn-danger fk-button">
-        Dele
+        Del
       </button>
     </div>
   </div>
